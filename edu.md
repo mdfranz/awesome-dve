@@ -8,4 +8,3 @@
 
 # Articles
 - [Toppling Tyranny: Understanding the Militia Movement’s Role in the January 6th Insurrection and Beyond](https://www.middlebury.edu/institute/academics/centers-initiatives/ctec/ctec-publications/toppling-tyranny-understanding-militia) - July 25, 2022 (CTEC)
-- [Dangerous Organizations and Bad Actors: The Patriot Front](https://www.middlebury.edu/institute/academics/centers-initiatives/ctec/ctec-publications/dangerous-organizations-and-bad-actors-patriot) - May 31, 2022 (CTEC)
